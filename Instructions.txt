@@ -1,0 +1,14 @@
+for the senior project @ uob.
+
+
+System requirements:
+-Java must be installed.
+-Java version must be 11 or greater(preferably if you update to the latest version)
+-powerful enough computer to run 3D graphics. (DirectX11, 1Ghz processor, any modern laptop should do)
+- 64 bit system.
+
+To run:
+
+- just run final game.exe .
+- dont modify any text file.
+
