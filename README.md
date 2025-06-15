@@ -1,5 +1,5 @@
 # Demo
-[![Simulated Annealing Algorithm](screen.png)](https://youtu.be/zzoZIuM5ZaI)
+[![Simulated Annealing Algorithm](thumbnail.png)](https://youtu.be/JQxwKwaek2c)
 
 
 
